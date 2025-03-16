@@ -1,0 +1,15 @@
+.env
+
+.classpath
+.project
+.settings/
+
+bin/
+*.class
+*.jar
+
+org.eclipse.jdt.core.prefs
+org.eclipse.core.resources.prefs
+
+
+ZooSQL.sql
